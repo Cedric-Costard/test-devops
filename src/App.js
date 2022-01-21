@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Salut ! C'est Cocost ;p
+          Salut ! C'est Cocost ;p Test codecov
         </p>
         <a
           className="App-link"
